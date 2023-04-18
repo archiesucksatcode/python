@@ -1,0 +1,6 @@
+email = input("Enter email:")
+password = input("Enter password:")
+print (email) 
+print (password)
+print ("is this correct")
+code = input ("put code")
